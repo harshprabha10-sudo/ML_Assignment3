@@ -1,0 +1,7 @@
+{
+  "q4": [
+    "Cat versus dog. One near-boundary cat was predicted as dog at a score of -0.001. Its upright pose and tan face resemble cues visible in the dog support vectors. Another cat stayed on the correct side at +0.002. The black dog predicted as bird also shows how the final multiclass vote can differ from a single pair's score.",
+    "Automobile versus truck. The red car and the white box truck landed on opposite wrong sides at about -0.004 and +0.004. The training support vectors include crops dominated by a wheel or a front grille. At this resolution, those shapes can be shared across vehicle classes.",
+    "Bird versus deer. The small bird among branches scored nearly zero and was predicted as deer. The deer support vector is also a small subject against a much larger background. The close scores indicate overlap along this decision function in the fixed 216-value CNN representation."
+  ]
+}
